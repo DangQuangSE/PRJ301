@@ -1,0 +1,51 @@
+----
+Link Zoom (Theo dõi trực tiếp khóa học):
+https://uw-edu-pl.zoom.us/j/92231027952
+
+----
+LMS (làm bài Quizz/Workshop/Assignment):
+- Course ID: PRJ301LNT / PRJ301LNT@2024
+----
+Edunext (Shcedule / Disscussion)
+https://fu-edunext.fpt.edu.vn/session/detail?classId=14745
+----
+Source-code: https://github.com/lenhattung/SE1805-PRJ301/
+----
+Support: https://www.ultraviewer.net/vi/download.html
+----
+Tools:
+- JDK 8 : https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html
+- Netbeans 8.2 : https://taimienphi.vn/download-netbean-ide-5221/8.2-phien-ban
+- Tomcat 8.5 : https://archive.apache.org/dist/tomcat/tomcat-8/v8.5.99/bin/
+- Github Desktop
+----
+– Amazon Junior Software Developer Professional Certificate - Cousera certificate
+– Địa chỉ: https://www.coursera.org/professional-certificates/amazon-junior-software-developer
+
+
+----
+Videos:
+Slot 1 - https://youtu.be/OqyRrfZuNoY
+Slot 2 - https://youtu.be/EmGVY4fSnO4
+Slot 3 - https://youtu.be/AwYnn-msglQ
+Slot 4 - https://youtu.be/x5YfNiVWJ6Y
+Slot 5 - https://youtu.be/jYMbnQIZqoA
+Slot 6 - https://youtu.be/kCdHqbnag_k
+Slot 7 - https://youtu.be/7lHpCIoAZsg
+Slot 8 - https://youtu.be/fSdgfZxhNUg
+Slot 9 - https://youtu.be/JtXrM3XOInI
+Slot 10- https://youtu.be/Ph6JwHYgfGg
+Slot 11 - https://youtu.be/NO6l4JMOXh4
+Slot 12 - https://youtu.be/2pJ4d6jVxfU
+Slot 13 - https://youtu.be/6Kg1jpxDXxI
+Slot 14 - https://youtu.be/NpzkY0osfps
+Slot 15 - https://youtu.be/UhEVfX2lmeA
+Slot 16 - https://youtu.be/wP3z1P2ZuvM
+Slot 17 - https://youtu.be/hS0jwKTe6HQ
+
+----
+Đăng ký shortcourse Spring Framework:
+https://docs.google.com/spreadsheets/d/1MkXwQ1nQlkY5P5AsF02hyPO0SildSMoIs_uxAfa1VUA/edit?usp=sharing
+
+Link nộp Assignment:
+https://drive.google.com/drive/folders/1taY6KXAGqu7zycI98cxqVo2zeXKOKqTz?usp=sharing
